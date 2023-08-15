@@ -9,11 +9,11 @@ thead {
     line-height: 1.5;
 }
 
-.table-row {
+.table_row {
     background-color: #fff;    
 }
 
-.table-row:nth-child(even) {
+.table_row:nth-child(even) {
     background-color: lightgray;
 }
 
