@@ -36,3 +36,11 @@ ul {
 section {
   width: 500px;
 }
+
+.layout {
+  background-color: #d1d6da;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;    
+}
