@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ToaderG85/goit-react-hw-01-components/static/css/main.7e66cb64.css",
-    "main.js": "/ToaderG85/goit-react-hw-01-components/static/js/main.b38d7781.js",
+    "main.css": "/ToaderG85/goit-react-hw-01-components/static/css/main.0ecb9153.css",
+    "main.js": "/ToaderG85/goit-react-hw-01-components/static/js/main.c8ebee76.js",
     "index.html": "/ToaderG85/goit-react-hw-01-components/index.html",
-    "main.7e66cb64.css.map": "/ToaderG85/goit-react-hw-01-components/static/css/main.7e66cb64.css.map",
-    "main.b38d7781.js.map": "/ToaderG85/goit-react-hw-01-components/static/js/main.b38d7781.js.map"
+    "main.0ecb9153.css.map": "/ToaderG85/goit-react-hw-01-components/static/css/main.0ecb9153.css.map",
+    "main.c8ebee76.js.map": "/ToaderG85/goit-react-hw-01-components/static/js/main.c8ebee76.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e66cb64.css",
-    "static/js/main.b38d7781.js"
+    "static/css/main.0ecb9153.css",
+    "static/js/main.c8ebee76.js"
   ]
 }
