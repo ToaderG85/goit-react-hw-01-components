@@ -14,15 +14,7 @@ code {
     monospace;
 }
 
-.layout {
-  background-color: #d1d6da;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 40px;
 
-  
-}
 
 h1,
 h2,
